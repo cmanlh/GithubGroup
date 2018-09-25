@@ -1,4 +1,4 @@
 # GithubGroup
-github group repository
+### github group repository
 
-https://github.com/AdoptOpenJDK
+* https://github.com/AdoptOpenJDK
